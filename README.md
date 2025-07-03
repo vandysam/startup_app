@@ -1,0 +1,41 @@
+# startup_app
+Social Media startup app. Fashion Pinterest + Spotify 
+
+Name - ‘Breeze’ , ‘Sky’, ‘Blue’ , ‘Purple’, 
+Description - a social media app that combines fashion and music. Like the fashion side of Pinterest but make it more interactive. It’s kinda like a social fashion discovery + music-vibe + shopping. 
+
+Moto/Slogan - 
+Wear the vibe
+Style meets sound
+
+Notes / Things -
+little note: maybe it'll just be an app with weekly challenges to find the best outfit or song for the challenge. But, those who post outfits, can tag brands, put links, and share where they got the piece from. The vibe: sharing curated looks. 
+
+Weekly challenges inspired by music genres and artists (Wear the vibe challenge according to a song, best outfit that represents this artist/album, competitions for different genres, concepts, weather,...)
+Trend discovery feeds blending viral fashion and music content
+Follow users by fashion style, music taste, location
+AI-powered recommendations to discover like-minded creators and trends
+Users can tag songs and fashion items in one post
+Users create moodboards mixing photos, music clips, videos, and text
+Posts combining both — e.g., an outfit inspired by a track, or a song moodboard
+Post fashion looks/outfits, music clips, playlists, or song recommendations
+Will have an explore feed by trending looks or outfit vibe/genre
+Users will be able to like, commend, share, save, favorite
+Section for shopping from what was posted
+Tech Stack - 
+React Native / HTML/CSS - frontend 
+Node.js / Django - backend 
+Music API - spotify/apple/etc 
+Database - PostgreSQL
+AI suggestions: OpenAI for labeling, hashtags, writing, …
+Shopping links, shopify API, etc. 
+Hosting - Vercel + AWS
+
+Clarity:
+What does the app do ? 
+The app will be made for people who want to share their outfits, for users who want to find inspiration, and for people looking to discover new styles. It will have weekly challenges to promote the app and be more interactive. Think of Spotify and fashion Pinterest combined. 
+Who are my target users?
+People who use fashion pinterest, instagram, and spotify. Those who are interested in fashion, music, challenges. 
+MVP - minimum viable product 
+…
+
